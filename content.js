@@ -1,2 +1,2 @@
 console.log("knaqq")
-console.log("obapp")
+console.log("inafp")
