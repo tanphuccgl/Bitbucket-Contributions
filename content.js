@@ -1,2 +1,2 @@
 console.log("knaqq")
-console.log("tajka")
+console.log("yjqaa")
