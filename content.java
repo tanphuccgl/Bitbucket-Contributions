@@ -9,6 +9,5 @@ public class Crgxhs {
         System.out.println("hasxr");
         System.out.println("bljsy");
         System.out.println("bwunv");
-        System.out.println("cgvec");
     }
 }
