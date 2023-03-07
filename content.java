@@ -1,6 +1,6 @@
 public class Crgxhs {
     public static void main() {
         System.out.println("eanck");
-        System.out.println("swwgk");
+        System.out.println("najut");
     }
 }
