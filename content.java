@@ -1,6 +1,6 @@
 public class Crgxhs {
     public static void main() {
         System.out.println("eanck");
-        System.out.println("aiifi");
+        System.out.println("hylmn");
     }
 }
