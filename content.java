@@ -4,5 +4,6 @@ public class Crgxhs {
         System.out.println("nrbmm");
         System.out.println("rjmxa");
         System.out.println("trmsg");
+        System.out.println("fnujx");
     }
 }
