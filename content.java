@@ -19,5 +19,6 @@ public class Crgxhs {
         System.out.println("idves");
         System.out.println("qfsfa");
         System.out.println("pnlcl");
+        System.out.println("qubax");
     }
 }
